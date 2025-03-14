@@ -6,8 +6,8 @@ Este repositório foi criado para armazenar e compartilhar os exercícios realiz
 
 O repositório está organizado da seguinte forma:
 
-- **/Exercicios**: Esta pasta contém subpastas para cada módulo ou semana do curso, onde os exercícios correspondentes são armazenados.
-  - **/Aula2**: Exercícios do segunda aula.
+- **/Exercicios**: Esta pasta contém subpastas para cada aula ou semana do curso, onde os exercícios correspondentes são armazenados.
+  - **/Aula2**: Exercícios da segunda aula.
   - **/Aula3**: Exercícios da terceira aula.
   - **...**: E assim por diante para cada módulo subsequente.
 
